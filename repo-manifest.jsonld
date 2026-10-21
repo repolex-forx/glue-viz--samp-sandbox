@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/glue-viz/samp-sandbox/commit/16600da6c8a84d5a590b264d16e48380fc7dc80d",
       "git:hexsha": "16600da6c8a84d5a590b264d16e48380fc7dc80d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
